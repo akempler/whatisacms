@@ -1,0 +1,58 @@
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal h5
+{
+    text-transform: none;
+}
+
+.reveal h1,
+.reveal h3 {
+    font-family: 'Roboto Slab', serif;
+}
+
+.reveal h3 {
+    font-size: 1.5em;
+}
+
+ul li {
+    font-size: 1.0em;
+}
+
+.reveal .slides > section > ul > li {
+    font-size: 1.8em;
+}
+
+.reveal .slides > section > ul > li > ul > li {
+    font-size: .8em;
+    color: #3f3f3f;
+}
+
+.reveal .slides > section ul li ul li {
+    font-size: .9em;
+    color: #656565;
+}
+
+.reveal .slides > section > ul > li > ul > li > ul > li {
+    font-size: .9em;
+    color: #767676;
+}
+
+.slides ul li.red {
+    color: #620000;
+}
+
+.slides ul li.green {
+    color: darkgreen;
+}
+
+.reveal {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.reveal em {
+    font-family: serif;
+    font-size: 1.2em;
+    line-height: 1.0;
+}
